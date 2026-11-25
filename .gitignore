@@ -1,0 +1,11 @@
+# MATLAB / Python outputs
+figures/*.png
+figures/*.pdf
+code/calibrated_params.mat
+code/calibrated_params_both.mat
+code/TableS3_*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.asv
+.DS_Store
+*.onetoc2
